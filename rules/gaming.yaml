@@ -1,0 +1,17 @@
+payload:
+  - DOMAIN-SUFFIX,nba2k.com
+  - DOMAIN-SUFFIX,2ksports.com
+  - DOMAIN-SUFFIX,2k.com
+  - DOMAIN-SUFFIX,ea.com
+  - DOMAIN-SUFFIX,easports.com
+  - DOMAIN-SUFFIX,fifa.com
+  - DOMAIN-SUFFIX,ubi.com
+  - DOMAIN-SUFFIX,just-dance.com
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,nintendo.com
+  - DOMAIN-KEYWORD,nba2k
+  - DOMAIN-KEYWORD,2ksports
+  - DOMAIN-SUFFIX,ps5.np.playstation.net
+  - DOMAIN-SUFFIX,zeptodev.com
+  - DOMAIN-SUFFIX,zeptolab.com
+  - DOMAIN-SUFFIX,nintendo.net
