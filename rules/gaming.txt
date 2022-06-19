@@ -14,4 +14,3 @@ DOMAIN-SUFFIX,ps5.np.playstation.net
 DOMAIN-SUFFIX,zeptodev.com
 DOMAIN-SUFFIX,zeptolab.com
 DOMAIN-SUFFIX,nintendo.net
-DOMAIN-SUFFIX,us.np.stun.playstation.net
