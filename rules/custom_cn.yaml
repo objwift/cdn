@@ -1705,4 +1705,5 @@ payload:
 - DOMAIN-SUFFIX,yizhitou.com
 - DOMAIN-SUFFIX,stun.xten.com
 - DOMAIN-SUFFIX,right.com.cn
+- DOMAIN-SUFFIX,mypikpak.com
 - IP-CIDR,8.210.182.0/24
