@@ -1,2 +1,4 @@
+DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,auth.split.io
+IP-CIDR,104.18.0.0/20
