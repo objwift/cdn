@@ -236,7 +236,7 @@ function handleGetdetail() {
             try {
                 let guaranteeBarVO = data.componentsVO.guaranteeBarVO;
                 let textList = guaranteeBarVO.guaranteeItems[0].textList;
-                textList.unshift("价格详情");
+                textList.unshift({text:"价格详情"});
             } catch (e) {
                 $.logErr(e, "handleGetdetail handle title error");
             }
