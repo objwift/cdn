@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,auth.split.io
 IP-CIDR,104.18.0.0/20
 IP-CIDR,52.152.0.0/13
 DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,bing.com
