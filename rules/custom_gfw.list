@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,api.playstation.com
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,torrentleech.org
 DOMAIN-SUFFIX,mb3admin.com
+IP-CIDR,209.85.165.0/24
